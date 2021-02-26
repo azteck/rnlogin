@@ -1,0 +1,81 @@
+C:\Users\palla\OneDrive\Documents\workspace\reactnative\RNLogin\android>gradlew signingReport   
+
+> Configure project :react-native-firebase_app
+:react-native-firebase_app package.json found at C:\Users\palla\OneDrive\Documents\workspace\reactnative\RNLogin\node_modules\@react-native-firebase\app\package.json
+:react-native-firebase_app:firebase.bom using default value: 26.4.0
+:react-native-firebase_app:play.play-services-auth using default value: 19.0.0
+:react-native-firebase_app package.json found at C:\Users\palla\OneDrive\Documents\workspace\reactnative\RNLogin\node_modules\@react-native-firebase\app\package.json
+:react-native-firebase_app:version set from package.json: 10.6.4 (10,6,4 - 10006004)
+:react-native-firebase_app:android.compileSdk using custom value: 29
+:react-native-firebase_app:android.targetSdk using custom value: 29
+:react-native-firebase_app:android.minSdk using custom value: 16
+:react-native-firebase_app:reactNativeAndroidDir C:\Users\palla\OneDrive\Documents\workspace\reactnative\RNLogin\node_modules\react-native\android
+
+> Task :app:signingReport
+Variant: debugUnitTest   
+Config: debug
+Store: C:\Users\palla\OneDrive\Documents\workspace\reactnative\RNLogin\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May, 2052
+----------
+Variant: release
+Config: debug
+Store: C:\Users\palla\OneDrive\Documents\workspace\reactnative\RNLogin\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May, 2052
+----------
+Variant: debug
+Config: debug
+Store: C:\Users\palla\OneDrive\Documents\workspace\reactnative\RNLogin\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May, 2052
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\palla\OneDrive\Documents\workspace\reactnative\RNLogin\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May, 2052
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\palla\OneDrive\Documents\workspace\reactnative\RNLogin\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May, 2052
+----------
+
+> Task :react-native-firebase_app:signingReport
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\palla\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 80:D7:18:40:BF:B7:37:99:47:DA:EC:BE:DE:0B:DF:03
+SHA1: CD:8A:DA:65:63:34:8D:51:13:61:AE:2C:38:39:C1:87:7E:FA:89:8A
+SHA-256: 65:D9:95:E0:B7:69:03:A9:9B:3D:16:09:5E:61:84:74:D4:60:F5:DE:74:84:15:2C:93:6E:AB:3D:04:A1:CB:92
+Valid until: Tuesday, 2 August, 2050
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\palla\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 80:D7:18:40:BF:B7:37:99:47:DA:EC:BE:DE:0B:DF:03
+SHA1: CD:8A:DA:65:63:34:8D:51:13:61:AE:2C:38:39:C1:87:7E:FA:89:8A
+SHA-256: 65:D9:95:E0:B7:69:03:A9:9B:3D:16:09:5E:61:84:74:D4:60:F5:DE:74:84:15:2C:93:6E:AB:3D:04:A1:CB:92
+Valid until: Tuesday, 2 August, 2050

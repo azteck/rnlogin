@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "149390391872",
+    "project_id": "reactnativeotp-454ac",
+    "storage_bucket": "reactnativeotp-454ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149390391872:android:c6dc21c1cf5ca0b723fda5",
+        "android_client_info": {
+          "package_name": "com.azteck.rnlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149390391872-br2kts3s9lbi6atb64qj581f6hfk8ii4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azteck.rnlogin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "149390391872-15tal4dpdi590b4ih16qcuv6tvhvfpte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9TOJvPCcxNvTIw8zjm-7euRWfHvOwzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149390391872-15tal4dpdi590b4ih16qcuv6tvhvfpte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
